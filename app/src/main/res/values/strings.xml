@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Race Tracker App</string>
+    <string name="run_a_race">Run a Race</string>
+    <string name="progress_percentage">Progress Percentage</string>
+    <string name="max_Progress">MAX Progress</string>
+    <string name="pause">Pause</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+</resources>
